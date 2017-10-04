@@ -1,4 +1,4 @@
-# MachineLearningCourses
+# Machine Learning Courses
 Materials, Lecture Notes, Assignments and their answers for machine learning courses I took.
 
 Coursera - Free machine learning course by Andrew NG in Coursera websit (https://www.coursera.org/learn/machine-learning)
